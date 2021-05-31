@@ -23,6 +23,7 @@
     <modules>
         <module>generic</module>
         <module>ebay</module>
+        <module>amazon</module>
     </modules>
 
     <properties>
